@@ -1,0 +1,6 @@
+Sanskrit,English,Model Output English,BLEU,CHRF
+रामः विद्यालयं गच्छति।,Rama goes to school.,Ram goes to school.,66.87403049764218,79.25091170560934
+सीता पुस्तकं पठति।,Sita reads a book.,Sita is reading books.,12.70331870386537,36.05762546213667
+बालकाः उद्याने क्रीडन्ति।,The children play in the garden.,Children play in the garden.,64.31870218238025,85.70199215257257
+सूर्यः पूर्वदिशायाम् उदेति।,The sun rises in the east.,The sun rises in the east.,100.00000000000004,100.0
+कृषकः क्षेत्रे कार्यं करोति।,The farmer works in the field.,The farmer is working in the fields.,16.515821590069034,66.7877936248363
